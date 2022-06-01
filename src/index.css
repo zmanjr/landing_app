@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +10,81 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} */
+.title{
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: bold;
+  
+}
+nav{
+  height: 77px;
+}
+
+.aft-nav{
+  
+  justify-content: space-between;
+}
+.brand{
+  width: 25%;
+}
+#navbarNav{
+  
+  justify-content: space-evenly;
+}
+.navbar{
+  margin-top: -10px;
+}
+.link-text{
+  color: #0E0E0E;
+  font-family: 'Source sans Pro ',sans-serif;
+}
+.nav-link:active{
+  text-decoration: underline;
+  color: #FF4545;
+}
+.main{
+  background:  url(./images/back.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 790px;
+  text-align: center;
+  font-family: 'Bebas Neue',sans-serif;
+  padding-top: 5%;
+}
+.cw{
+  color: white;
+}
+.cr{
+  color:#FF4545;
+  font-weight: bold;
+}
+.aft-main{
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+.aft-main p {
+  width: 92%;
+}
+.as1{
+  height: 464px;
+}
+.pink{
+  color: #FCD0AD;
+}
+
+.rellive{
+  font-family: Rellive, sans-serif;
+  font-size:34px;
+}
+.v1{
+  margin-top: -5%;
+}
+
+.t-1{
+  font-size: 54px;
+}
+.t-2{
+  font-size: 44px;
 }
